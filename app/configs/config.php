@@ -2,8 +2,8 @@
 	
 	date_default_timezone_set('America/New_York');
 	$productName = 'KetoX Active';
-	$productDomain = 'getketoxactive.com';
-	$productSubFolder = 'usv-2';
+	$productDomain = 'localhost';
+	$productSubFolder = 'demo.com/usv-2';
 	return (object) array(
 		'crm' => (object) array(
 			'domain' => '', // no required for konnektive

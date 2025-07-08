@@ -1,1 +1,1 @@
-<?php include('/var/www/html/getketoxactive.com/usv-2/app/src/page_load.php'); ?>
+<?php include('app/src/page_load.php'); ?>

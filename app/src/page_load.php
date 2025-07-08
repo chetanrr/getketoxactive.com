@@ -2,7 +2,7 @@
 	
 	session_start();
 	
-	$configs = include('/var/www/html/getketoxactive.com/usv-2/app/configs/config.php');
+	$configs = include('app/configs/config.php');
 	
 	include('functions.php');
 	include('konnektive.php');
